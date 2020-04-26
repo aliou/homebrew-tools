@@ -7,8 +7,8 @@ class GitFixup < Formula
   homepage 'https://github.com/aliou/git-fixup'
   head 'https://github.com/aliou/git-fixup'
 
-  version '1.0.0'
-  sha256 '9192d47214df74156428e61660232874216f6af3aeda4871791dc36ab6a870fe'
+  version '1.1.0'
+  sha256 '8d374c925cc0e12fad767bd93b185f81cd6116e4ab6b942f6d37991e718af2ff'
 
   url "https://github.com/aliou/git-fixup/archive/v#{version}.zip"
 
